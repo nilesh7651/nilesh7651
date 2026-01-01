@@ -1,12 +1,58 @@
-- 👋 Hi, I’m @nilesh7651
-- 👀 I’m interested in technology, programming, photography, hiking, and artificial intelligence
-- 🌱 I’m currently learning learning web development and machine learning, with a focus on artificial intelligence applications.
-- 💞️ I’m looking to collaborate on open-source projects related to web development, machine learning, or artificial intelligence.
-- 📫 How to reach me: You can reach me via email at nileshsingh7651@gmail.com or connect with me on LinkedIn at [www.linkedin.com/in/nilesh-kumar-b0a931246].
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
+# Hi 👋, I'm Nilesh
 
-<!---
-nilesh7651/nilesh7651 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Final Year B.Tech Student specializing in **Artificial Intelligence & Machine Learning**
+💻 Passionate about building **real-world AI applications**
+🚀 Interested in **Computer Vision, NLP, and Full-Stack AI Systems**
+
+---
+
+## 👨‍💻 About Me
+
+I am a motivated engineering student exploring how **AI and Machine Learning** can solve real-world problems.
+I enjoy working on projects involving **OCR, document analysis, text processing, and intelligent automation**.
+
+Currently, I am focusing on:
+
+* Building practical AI-based applications
+* Improving my skills in **Python, ML, and NLP**
+* Contributing to **open-source projects**
+
+---
+
+## 🛠️ Technical Skills
+
+* **Languages:** Python, C++
+* **Machine Learning:** Scikit-learn, NumPy, Pandas
+* **Deep Learning:** TensorFlow / PyTorch (basic)
+* **Computer Vision:** OpenCV, OCR
+* **NLP:** Text preprocessing, summarization
+* **Web:** Flask, FastAPI
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🚀 Projects & Interests
+
+* 📄 **Document & Invoice Analysis using OCR**
+* 🧠 **Text Classification & Summarization**
+* 📷 **Image Processing Applications**
+* 🌐 **AI-powered Web Applications**
+
+*(More projects coming soon — stay tuned!)*
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Machine Learning techniques
+* Model deployment & APIs
+* Improving open-source contributions
+
+---
+
+## 🤝 Let's Connect
+
+* GitHub: [https://github.com/nilesh7651](https://github.com/nilesh7651)
+* LinkedIn: *(Add when ready)*
+
+⭐ Feel free to explore my repositories and connect with me!
