@@ -1,58 +1,12 @@
-# Hi 👋, I'm Nilesh
+Hi there! 👋  
 
-🎓 Final Year B.Tech Student specializing in **Artificial Intelligence & Machine Learning**
-💻 Passionate about building **real-world AI applications**
-🚀 Interested in **Computer Vision, NLP, and Full-Stack AI Systems**
+I'm **Nilesh**, a final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**.  
 
----
+I enjoy building practical AI-powered applications and exploring how machine learning can solve real-world problems. My interests include **computer vision, OCR, NLP**, and **full-stack AI systems**.
 
-## 👨‍💻 About Me
+Currently, I’m working on projects involving **document analysis, text extraction, and intelligent automation**, while also improving my skills through open-source contributions.
 
-I am a motivated engineering student exploring how **AI and Machine Learning** can solve real-world problems.
-I enjoy working on projects involving **OCR, document analysis, text processing, and intelligent automation**.
+Outside of coding, I enjoy learning about new technologies, experimenting with ideas, and continuously improving my problem-solving skills.
 
-Currently, I am focusing on:
-
-* Building practical AI-based applications
-* Improving my skills in **Python, ML, and NLP**
-* Contributing to **open-source projects**
-
----
-
-## 🛠️ Technical Skills
-
-* **Languages:** Python, C++
-* **Machine Learning:** Scikit-learn, NumPy, Pandas
-* **Deep Learning:** TensorFlow / PyTorch (basic)
-* **Computer Vision:** OpenCV, OCR
-* **NLP:** Text preprocessing, summarization
-* **Web:** Flask, FastAPI
-* **Tools:** Git, GitHub, VS Code
-
----
-
-## 🚀 Projects & Interests
-
-* 📄 **Document & Invoice Analysis using OCR**
-* 🧠 **Text Classification & Summarization**
-* 📷 **Image Processing Applications**
-* 🌐 **AI-powered Web Applications**
-
-*(More projects coming soon — stay tuned!)*
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Machine Learning techniques
-* Model deployment & APIs
-* Improving open-source contributions
-
----
-
-## 🤝 Let's Connect
-
-* GitHub: [https://github.com/nilesh7651](https://github.com/nilesh7651)
-* LinkedIn: *(Add when ready)*
-
-⭐ Feel free to explore my repositories and connect with me!
+Let’s connect!  
+[GitHub](https://github.com/nilesh7651) • [LinkedIn](www.linkedin.com/in/nilesh-kumar-b0a931246)
